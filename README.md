@@ -1,2 +1,2 @@
 # yandex-ml
-Yandex Machine Learning course on Coursera
+Yandex Machine Learning specialization on Coursera
